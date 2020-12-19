@@ -1,2 +1,3 @@
-# Backward-Elimination-ve-Makine-renmesi
-Veri seti üzerinde Geri Eleme yöntemiyle gereksiz kolonların elenmesiyle makine öğrenmesi tekniklerinin test edilmesi.
+# Backward Elimination ve Makine Öğrenimi Modelleri
+
+Bu çalışmada, belirlenen bir veriseti üzerinde Geri Eleme yöntemiyle birçok makine öğrenmesi modeline göre gereksiz görünen kolonlar elenmiştir.
