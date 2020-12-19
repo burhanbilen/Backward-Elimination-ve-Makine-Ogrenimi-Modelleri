@@ -1,6 +1,6 @@
 # Backward Elimination ve Makine Öğrenimi Modelleri
 
-Bu çalışmada, belirlenen bir veriseti üzerinde Geri Eleme yöntemiyle birçok makine öğrenmesi modeline göre gereksiz görünen kolonlar elenmiştir. Bu bağlamda, p-value değerine göre veri kolonu elemeleri yapılarak R-Square değeri artırılmaya çalışılmıştır.
+Bu çalışmada, belirlenen bir veriseti üzerinde Geri Eleme yöntemiyle birçok makine öğrenmesi modeline göre gereksiz görünen kolonlar elenmiştir. Bu bağlamda, p-value sonuçlarına göre veri kolonu elemeleri yapılarak R-Square değeri artırılmaya çalışılmıştır.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Aşağıda verilen kodun çıktısı olarak, veri kolonları arasındaki ilişkinin görülebilmesi için Korelasyon Matrisi verilmiştir.
