@@ -4,16 +4,11 @@ Bu çalışmada, belirlenen bir veriseti üzerinde Geri Eleme yöntemiyle birço
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Aşağıda verilen kodun çıktısı olarak, veri kolonları arasındaki ilişkinin görülebilmesi için Korelasyon Matrisi verilmiştir.
-
+```
 import pandas as pd
 df = pd.read_csv('veri.csv', encoding='utf-8')
 print(df.corr())
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+```
 
 |               | Calisan ID | UnvanSeviyesi | Kidem    | Puan     | maas     |
 | ------------- |:----------:|:-------------:|:--------:|:--------:|---------:|
